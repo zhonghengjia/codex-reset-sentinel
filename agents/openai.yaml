@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Reset Sentinel"
+  short_description: "监测并判断 Codex 全员重置、重置卡与额度异常"
+  default_prompt: "Use $codex-reset-sentinel to check the latest Codex reset signals and report them in concise Chinese."
